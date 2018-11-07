@@ -1,0 +1,100 @@
+# Translation of Themes - HeroPress in Chinese (China)
+# This file is distributed under the same license as the Themes - HeroPress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-10-16 09:40:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - HeroPress\n"
+
+#. Description of the plugin/theme
+msgid "HeroPress is a trending WordPress theme with lots of powerful features, instantly giving a professional look to your online presence. It fits for business, portfolio, food & restaurant, gym & fitness, spa salon, medical practitioner & hospitals, landing pages, product pages, corporate business, digital agency, product showcase, financial advisor, accountant, law firm, wealth advisor, photography, personal, and any eCommerce stores. HeroPress premium version provides you more than 10 different designs and supports popular plugins WPML, Polylang, WooCommerce, Contact Form 7, Revolution Slider, Elementor, Visual Composer, WP-Forms, Ninja Forms, Jetpack, WP-Featherlight, Give (WordPress Donation Plugin), Gravity Forms, Yoast SEO and many more. View the demo of HeroPress Premium https://demo.speciatheme.com/pro/?theme=heropress"
+msgstr "HeroPress 是一个热门的 WordPress 主题，具有许多强大的功能，立即为您的在线形象提供专业的外观。适用于商业，作品集，食品和餐厅，健身房和健身，水疗沙龙，医疗从业者和医院，登陆页面，产品页面，公司业务，数字代理，产品展示，财务顾问，会计师，律师事务所，财富顾问，摄影，个人和任何电子商务商店。 HeroPress 高级版为您提供超过10种不同的设计，并支持流行的插件 WPML，Polylang，WooCommerce，Contact Form 7，Revolution Slider，Elementor，Visual Composer，WP-Forms，Ninja Forms，Jetpack，WP-Featherlight，Give（WordPress Donation Plugin） ，Gravity Forms，Yoast SEO 等等。查看 HeroPress Premium https://demo.speciatheme.com/pro/?theme=heropress 的演示"
+
+#. Theme Name of the plugin/theme
+msgid "HeroPress"
+msgstr "HeroPress"
+
+#: inc/customize/heropress-premium.php:27
+msgid "Buy Now"
+msgstr "立即购买"
+
+#: inc/customize/heropress-premium.php:29
+msgid "Our Themes"
+msgstr "我们的主题"
+
+#: inc/customize/heropress-premium.php:23
+msgid "Premium Demo"
+msgstr "高级版演示"
+
+#: inc/customize/heropress-premium.php:31
+msgid "Support Center"
+msgstr "支持中心"
+
+#: inc/customize/heropress-premium.php:7
+msgid "Upgrade to Premium"
+msgstr "升级到高级版"
+
+#: inc/customize/heropress-premium.php:25
+msgid "View Details"
+msgstr "查看"
+
+#: sections/specia-breadcrumb.php:34
+msgid "Author: %s"
+msgstr "作者：%s"
+
+#: sections/specia-breadcrumb.php:22
+msgid "Category Archives: %s"
+msgstr "分类目录归档：%s"
+
+#: sections/specia-breadcrumb.php:10
+msgid "Daily Archives: %s"
+msgstr "日度归档：%s"
+
+#: sections/specia-breadcrumb.php:30
+msgid "Error 404"
+msgstr "404错误"
+
+#. Template Name of the plugin/theme
+msgid "Homepage One"
+msgstr "主页一"
+
+#: sections/specia-breadcrumb.php:14
+msgid "Monthly Archives: %s"
+msgstr "月度归档：%s"
+
+#. Template Name of the plugin/theme
+msgid "Page Fullwidth"
+msgstr "页全宽度"
+
+#: sections/specia-service.php:73 sections/specia-slider.php:59
+msgid "Read More"
+msgstr "阅读更多"
+
+#: sections/specia-breadcrumb.php:26
+msgid "Tag Archives: %s"
+msgstr "标签归档：%s"
+
+#: sections/specia-navigation.php:29
+msgid "Toggle navigation"
+msgstr "切换导航"
+
+#: sections/specia-breadcrumb.php:18
+msgid "Yearly Archives: %s"
+msgstr "年度归档：%s"
+
+#. Theme URI of the plugin/theme
+msgid "https://speciatheme.com/heropress-free/"
+msgstr "https://speciatheme.com/heropress-free/"
+
+#. Author URI of the plugin/theme
+msgid "https://speciatheme.com/"
+msgstr "https://speciatheme.com/"
+
+#. Author of the plugin/theme
+msgid "Specia"
+msgstr "Specia"
